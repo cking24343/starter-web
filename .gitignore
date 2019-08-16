@@ -1,2 +1,4 @@
 added_delete
 ignoreme.txt
+*.log
+log/
