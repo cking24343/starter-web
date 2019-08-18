@@ -9,4 +9,4 @@ updated and commited
 
 updated stage
 
-my babe is MErian
+my babe is Merian
