@@ -11,3 +11,6 @@ updated stage
 
 my babe is Merian
  always...forever...!
+ 
+ ### copyright
+ added comment
