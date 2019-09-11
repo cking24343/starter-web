@@ -21,3 +21,7 @@ my babe is Merian
  
  feature temp1 rebasing examples
  more changes from temp 1
+ 
+ 
+ ###Copyright
+ reserved
